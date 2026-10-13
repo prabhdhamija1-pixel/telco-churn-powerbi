@@ -30,11 +30,11 @@ This dashboard shows an association, not proof of cause, so the offer should be
 tested on a small group first.
 
  Dashboard
-![Dashboard](dashboard-overview.png)
+![Dashboard](Screenshot%202026-10-13%20151558.png)
 
  Tools
 Power BI Desktop, DAX
 
-## What I learned
+ What I learned
 - Found and fixed an inverted ratio in my churn rate measure (it divided total by
   churned instead of churned by total) and checked it against the pie chart.
